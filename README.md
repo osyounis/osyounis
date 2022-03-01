@@ -43,7 +43,7 @@ I'm Omar Younis, a Mechanical Engineer turned Data Scientist. I'm currently look
 
 
 ### GitHub Stats:
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=osyounis&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Omar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=osyounis&hide=contribs,issues&theme=tokyonight" />
 
 
 [vscode]: https://code.visualstudio.com/
