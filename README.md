@@ -1,8 +1,9 @@
 # Hi, I'm Omar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-![GitHub followers](https://img.shields.io/github/followers/osyounis?logo=GitHub) ![visitors](https://visitor-badge.glitch.me/badge?page_id=osyounis.osyounis)
+![GitHub followers](https://img.shields.io/github/followers/osyounis?logo=GitHub)
 
-I'm Omar Younis, a Mechanical Engineer turned Data Scientist. I'm currently looking for a full-time job in Data Science, and spend most of my time coding awesome projects or learning new programming skills.
+
+I'm Omar Younis, a Mechanical Engineer turned Data Scientist. I'm currently looking for a full-time job in Data Science. I spend most of my time coding awesome projects or learning new programming skills.
 
 - 🔭 I’m currently working an API tutorial so I can create my own
 - 🌱 I’m currently learning everything I can :joy:
