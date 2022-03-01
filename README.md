@@ -16,7 +16,7 @@ I'm Omar Younis, a Mechanical Engineer turned Data Scientist. I'm currently look
 &nbsp;&nbsp;
 [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/omar-younis/)
 &nbsp;&nbsp;
-[<img width="26px" background-color="#FFFFFF" src="./images/upwork-color.svg"/>](https://www.upwork.com/freelancers/~01ae22be60b853f6c8)
+[<img width="28px" background-color="#FFFFFF" src="./images/upwork-color.svg"/>](https://www.upwork.com/freelancers/~01ae22be60b853f6c8)
 
 
 ### Languages and Tools :
