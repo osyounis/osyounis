@@ -1,6 +1,6 @@
 # Hi, I'm Omar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30">
 
-I'm an experienced engineer with Computer Science and Mechanical Engineering experience.<br><br>
+I'm an experienced engineer with Computer Science and Mechanical Engineering experience.<br>
 - My undergraduate degree was in Mechanical Engineering at Worcester Polytechnic Institute.
 - I'm currently a graduate computer science student at California State University, Fullerton.
 - Currently building knowledge and skills in the AI field.
