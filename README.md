@@ -33,13 +33,32 @@
 
 ---
 
+## 🚀 Featured Project
+
+<div align="center">
+
+<img src="https://www.hendaseh.com/images/nahtadi/icon.png" width="80" alt="Nahtadi App Icon">
+
+### Nahtadi
+*Accurate prayer times and Qibla direction, always at hand*
+
+</div>
+
+An iOS app providing precise Islamic prayer times and Qibla compass using astronomical algorithms. Features offline functionality, customizable notifications, and multiple calculation methods.
+
+<div align="center">
+
+[![Learn More](https://img.shields.io/badge/Learn_More-0066cc?style=for-the-badge&logo=safari&logoColor=white)](https://www.hendaseh.com/nahtadi)
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osyounis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osyounis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats-two-blond-65.vercel.app/api?username=osyounis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats-two-blond-65.vercel.app/api/top-langs/?username=osyounis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -51,7 +70,7 @@
 
 [![Email](https://img.shields.io/badge/omar%40hendaseh.com-0066cc?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:omar@hendaseh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--younis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-younis/)
-[![Website](https://img.shields.io/badge/hendaseh.com-0066cc?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hendaseh.com)
+[![Website](https://img.shields.io/badge/hendaseh.com-0066cc?style=for-the-badge&logo=safari&logoColor=white)](https://hendaseh.com)
 
 **Graduating May 2026 | Actively seeking Software Engineering roles**
 
