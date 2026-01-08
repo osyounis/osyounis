@@ -1,0 +1,43 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+# Windows image file caches
+AppData
+# Recycle Bin
+$RECYCLE.BIN/
+# Icon cache
+*.ico.lock
+
+# IDE and Editor Files
+# Add specific patterns for the IDE or editor you use
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Build artifacts and temporary files (if applicable to your profile site)
+/node_modules
+/dist
+/build
+*.log
+*.tmp
+*.cache
+
+# Environment variables
+.env
+.env.local
+
+# Sensitive Information (should ideally not be in the workspace at all)
+# Secrets, keys, and credentials files
+secrets.txt
+config.json
+
+# Claude AI File/Directories to ignore
+.claude/
+CLAUDE.md
+claude_plan.md
+.mcp.json
