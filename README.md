@@ -48,11 +48,9 @@ An iOS app providing precise Islamic prayer times and Qibla compass using astron
 
 <div align="center">
 
-[![Download on App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1704067200)](https://apps.apple.com/us/app/nahtadi/id6755970888)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hendaseh.com/nahtadi">
-  <img src="https://img.shields.io/badge/Website-0066cc?style=for-the-badge&logo=safari&logoColor=white" height="40" alt="Website" style="border-radius: 8px; border: 1px solid #cccccc;">
-</a>
+[![Download on App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=135x40&releaseDate=1704067200)](https://apps.apple.com/us/app/nahtadi/id6755970888)
+&nbsp;&nbsp;
+[![Visit Website](assets/website-badge.svg)](https://www.hendaseh.com/nahtadi)
 
 </div>
 
@@ -73,7 +71,9 @@ An iOS app providing precise Islamic prayer times and Qibla compass using astron
 <div align="center">
 
 [![Email](https://img.shields.io/badge/omar%40hendaseh.com-0066cc?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:omar@hendaseh.com)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--younis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-younis/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/hendaseh.com-0066cc?style=for-the-badge&logo=safari&logoColor=white)](https://hendaseh.com)
 
 **Graduating May 2026 | Actively seeking Software Engineering roles**
