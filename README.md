@@ -48,7 +48,11 @@ An iOS app providing precise Islamic prayer times and Qibla compass using astron
 
 <div align="center">
 
-[![Learn More](https://img.shields.io/badge/Learn_More-0066cc?style=for-the-badge&logo=safari&logoColor=white)](https://www.hendaseh.com/nahtadi)
+[![Download on App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1704067200)](https://apps.apple.com/us/app/nahtadi/id6755970888)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hendaseh.com/nahtadi">
+  <img src="https://img.shields.io/badge/Website-0066cc?style=for-the-badge&logo=safari&logoColor=white" height="40" alt="Website" style="border-radius: 8px; border: 1px solid #cccccc;">
+</a>
 
 </div>
 
