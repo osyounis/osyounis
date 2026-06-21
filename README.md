@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Omar Younis <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="Waving hand"></h1>
-  <h3>Software Engineer | iOS Development | Machine Learning</h3>
-  <p>MS Computer Science @ CSUF • Graduating May 2026 • Actively seeking opportunities</p>
+  <h3>Software Engineer | iOS Development · Machine Learning · Scientific Computing</h3>
+  <p>M.S. Computer Science, CSUF (2026) • Ships apps to the App Store • Open to Software Engineering roles</p>
+  <p><em>Mechanical engineer turned software engineer — building iOS apps and working at the boundary of software, machine learning, and hardware-aware performance.</em></p>
 </div>
 
 ---
@@ -12,8 +13,6 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### iOS Development
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -21,7 +20,8 @@
 ![SwiftData](https://img.shields.io/badge/SwiftData-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-### Machine Learning & Data
+### Machine Learning & Scientific Computing
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -30,7 +30,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge)
@@ -42,7 +42,6 @@
 ### Databases
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Testing
 ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
@@ -72,13 +71,13 @@ An iOS app providing precise Islamic prayer times and Qibla compass using astron
 
 ---
 
-## 📊 Stats
+## 🧪 Selected Projects
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-two-blond-65.vercel.app/api?username=osyounis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats-two-blond-65.vercel.app/api/top-langs/?username=osyounis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+- **[Parallelizing Brent's Method with CUDA](https://github.com/osyounis/brent_cuda)** — First known CUDA implementation of Brent's root-finding method; 35× kernel-level and 8.8× end-to-end speedup on an NVIDIA RTX 3080 (M.S. thesis).
+- **[Islamic Prayer Time Algorithm Library](https://github.com/osyounis/islamic_prayer_time_app)** — Zero-dependency Python scientific-computing library (the engine behind Nahtadi): Julian Day math, spherical trigonometry, and 8+ calculation methods, with 105 tests and CI.
+- **[Maritime Collision Avoidance](https://collision-avoidance-radar-plotting-app.streamlit.app/)** ([source](https://github.com/osyounis/collision_avoidance_radar_plotting_app)) — Live web app in use by the U.S. Coast Guard Auxiliary; computes Closest Point of Approach and course/speed maneuver solutions from radar observations.
+- **[Mini Compiler](https://github.com/osyounis/compiler-project)** — 4,000+ line Python compiler translating a Pascal-like language to executable Python, with a table-driven LL(1) parser, semantic analysis, and AST-based code generation.
+- **[NewGame+](https://github.com/osyounis/new_game_plus)** — Hybrid Python–Prolog game-recommendation engine; a pyswip bridge converts IGDB API data into queryable Prolog facts.
 
 ---
 
@@ -92,6 +91,6 @@ An iOS app providing precise Islamic prayer times and Qibla compass using astron
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/hendaseh.com-0066cc?style=for-the-badge&logo=safari&logoColor=white)](https://hendaseh.com)
 
-**Graduating May 2026 | Actively seeking Software Engineering roles**
+**M.S. Computer Science, 2026 | Open to Software Engineering roles**
 
 </div>
