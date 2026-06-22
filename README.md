@@ -76,8 +76,9 @@ An iOS app providing precise Islamic prayer times and Qibla compass using astron
 - **[Parallelizing Brent's Method with CUDA](https://github.com/osyounis/brent_cuda)** — First known CUDA implementation of Brent's root-finding method; 35× kernel-level and 8.8× end-to-end speedup on an NVIDIA RTX 3080 (M.S. thesis).
 - **[Islamic Prayer Time Algorithm Library](https://github.com/osyounis/islamic_prayer_time_app)** — Zero-dependency Python scientific-computing library (the engine behind Nahtadi): Julian Day math, spherical trigonometry, and 8+ calculation methods, with 105 tests and CI.
 - **[Maritime Collision Avoidance](https://collision-avoidance-radar-plotting-app.streamlit.app/)** ([source](https://github.com/osyounis/collision_avoidance_radar_plotting_app)) — Live web app in use by the U.S. Coast Guard Auxiliary; computes Closest Point of Approach and course/speed maneuver solutions from radar observations.
+- **[Cycloidal Drive Creator](<CYCLOIDAL_REPO_URL>)** — Python/Tkinter tool that designs cycloidal-drive geometry and generates the cycloid equations, with live preview before export. Open-source and in active use.
 - **[Mini Compiler](https://github.com/osyounis/compiler-project)** — 4,000+ line Python compiler translating a Pascal-like language to executable Python, with a table-driven LL(1) parser, semantic analysis, and AST-based code generation.
-- **[NewGame+](https://github.com/osyounis/new_game_plus)** — Hybrid Python–Prolog game-recommendation engine; a pyswip bridge converts IGDB API data into queryable Prolog facts.
+- **[Image Watermark Remover](<WATERMARK_REPO_URL>)** — Pix2Pix GAN in PyTorch that automatically removes watermarks from images, trained on 16,700+ images from the Unsplash dataset.
 
 ---
 
