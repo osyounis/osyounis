@@ -2,7 +2,7 @@
   <h1>Omar Younis <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="Waving hand"></h1>
   <h3>Software Engineer | iOS Development · Machine Learning · Scientific Computing</h3>
   <p>M.S. Computer Science, CSUF (2026) • Ships apps to the App Store • Open to Software Engineering roles</p>
-  <p><em>Mechanical engineer turned software engineer — building iOS apps and working at the boundary of software, machine learning, and hardware-aware performance.</em></p>
+  <p><em>Mechanical engineer turned software engineer — I build iOS apps and work across machine learning and hardware-aware performance. Seven years in mechanical engineering means I can speak both disciplines and work the seam where hardware and software meet.</em></p>
 </div>
 
 ---
