@@ -5,13 +5,13 @@
 I'm a software engineer with a foundation in mechanical engineering and an M.S. in computer science. I have developed diverse software across the whole tech stack, including:
 
 - ✨ Fine-tuned and deployed a 1.5B parameter LLM that runs entirely on Apple's A16 chip from an iPhone 14 Pro.
-- 🎯 Developed the first known CUDA implementation of Brent's root-finding method.
+- 🎯 Built a CUDA implementation of Brent's root-finding method; a literature review identified no prior one.
 - 📱 Designed, built, and shipped **Nahtadi**, a privacy-first iOS app that computes prayer times and Qibla direction from astronomical algorithms; earned a 5-star average on the App Store.
 - 🚁 Created pilot-training software that the US Coast Guard implemented at all of its air stations.
-- 🔄 Built several ETL pipelines and cut feature development time by 40% for a Fortune 100 company.
+- 🔄 Built several ETL pipelines and cut feature development and testing time by 40% for a Fortune 100 client.
 - 🧠 Developed an ML neural network that improved predictive accuracy by 25% for Brazil's largest package delivery company.
-- 🤖 Built software for a robotic system at Stanford University.
-- 📈 Created software that raised efficiency by 50% at an engineering firm.
+- 🤖 Built embedded control software for a Stanford research prototype in 3D genome mapping.
+- 📈 Created software that raised efficiency by roughly 50% at an engineering firm.
 
 ---
 
@@ -41,8 +41,8 @@ An iOS app that computes precise Islamic prayer times and Qibla direction using 
 ## 🧪 Selected Projects
 
 - ✂️ **[On-Device LLM Summarizer](https://github.com/osyounis/a16-summarizer)**: QLoRA-tuned Qwen2.5-1.5B on DialogSum to achieve a +0.9 ROUGE-L score over the base. Quantized it to 4-bit MLX and deployed it in a SwiftUI app that runs entirely on an iPhone 14 Pro's A16 chip (a chip below Apple Intelligence's hardware line). Built with PyTorch, PEFT/TRL, and MLX Swift.
-- 🎯 **[Parallelizing Brent's Method with CUDA](https://github.com/osyounis/brent_cuda)**: First known CUDA implementation of Brent's root-finding method, parallelizing 4M+ independent problems across GPU threads on an NVIDIA RTX 3080. Benchmarked 35x kernel-level and 8.8x end-to-end speedup over a single-threaded C++ baseline. Profiled with Nvidia Nsight Systems to isolate PCIe transfer.
-- 🧭 **[Maritime Collision Avoidance](https://collision-avoidance-radar-plotting-app.streamlit.app/)** ([source](https://github.com/osyounis/collision_avoidance_radar_plotting_app)): Live web app in use by the U.S. Coast Guard Auxiliary. Computes the closest point of approach and course/speed maneuver solutions from radar observations, using vector-based relative-motion algorithms. Built in Python and Streamlit with full pytest coverage and type-checked, linted code.
+- 🎯 **[Parallelizing Brent's Method with CUDA](https://github.com/osyounis/brent_cuda)**: A CUDA implementation of Brent's root-finding method, with no prior implementation found in a literature review. Parallelizes 4M+ independent problems across GPU threads on an NVIDIA RTX 3080. Benchmarked 35x kernel-level and 8.8x end-to-end over a single-threaded C++ baseline. Profiled with Nsight Systems to isolate PCIe transfer.
+- 🧭 **[Radar Plotting Trainer](https://hendaseh.com/projects/radar-moboard)**: A maneuvering board tool that computes closest point of approach from radar observations, along with the course or speed change needed to open it, or to close on a vessel for an intercept. Prototyped in Python and Streamlit, then rebuilt as a four-package TypeScript monorepo covering geometry, rendering, a React front end, and export. Validated against two independent answer keys across 16 graded problems, with 1,689 passing tests. The Python prototype stays public as the archived reference implementation that validated the rewrite.
 - 🏗️ **[Mini Compiler](https://github.com/osyounis/compiler-project)**: Expanded a 339-line academic project into a 4K+-line modular compiler that translates a Pascal-like language into executable Python, with a table-driven LL(1) predictive parser, semantic analysis, and AST-based code generation.
 
 ---
